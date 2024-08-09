@@ -25,7 +25,7 @@ This Python script automates the process of saving WhatsApp contacts who send yo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/whatsapp-auto-contact-saver.git
+    git clone https://github.com/uwemdev/whatsapp-auto-contact-saver.git
     cd whatsapp-auto-contact-saver
     ```
 
